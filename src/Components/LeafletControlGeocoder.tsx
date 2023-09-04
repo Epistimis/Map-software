@@ -3,7 +3,7 @@ import { useMap } from "react-leaflet";
 import { GeoSearchControl, OpenStreetMapProvider } from 'leaflet-geosearch';
 import icon from './Constants'
 import "leaflet/dist/leaflet.css";
-import "leaflet-geosearch/dist/geosearch.css";
+import "leaflet-geosearch/dist/geosearch.css"; 
 
 const LeafletControlGeocoder = () => {
   const map = useMap();
@@ -31,6 +31,7 @@ const LeafletControlGeocoder = () => {
 }
 
 export default LeafletControlGeocoder;
+
 
 
 

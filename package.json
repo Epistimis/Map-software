@@ -1,22 +1,22 @@
 {
-  "name": "map-software",
-  "version": "0.1.0",
-  "private": true,
+  "name": "db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "@types/node": "18.15.11",
-    "@types/react": "18.0.31",
-    "@types/react-dom": "18.0.11",
-    "eslint": "8.37.0",
-    "eslint-config-next": "13.2.4",
-    "next": "13.2.4",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "typescript": "5.0.2"
+    "corns": "^0.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "gridfs-stream": "^1.1.1",
+    "mongodb": "^5.3.0",
+    "node": "^19.8.1",
+    "nodemon": "^2.0.22"
   }
 }

@@ -1,0 +1,12 @@
+[
+    {
+      "Canada": {
+        "law": "Personal Information Protection and Electronic Documents Act 2000 ('PIPEDA') and Privacy Act 1985 ('the Privacy Act')",
+        "lawLink": "https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/pipeda_brief",
+        "regulator": "Office of the Privacy Commissioner of Canada ('OPC')",
+        "description": "PIPEDA and the Privacy Act are the main statutes regulating privacy and data protection at a federal level in Canada. PIPEDA, only applies to organisations that conduct commercial activities whilst the Privacy Act applies to federal government bodies. PIPEDA sets out ten principles to which organisations must abide, including principles of accountability, consent, accuracy and safeguards, as well as limiting collection, use, disclosure, and retention. In addition, individuals have the right to submit complaints to organisations and to the OPC as well as withdraw their consent regarding certain processing activities. The OPC is a very active regulator, often issuing guidelines, public consultations and advice regarding current and future legislation; however, it cannot issue fines or take any other type of binding enforcement action against organisations. Other relevant laws include the Bank Act 1991, the Canada's Anti-Spam Legislation, 2010, and the Proceeds of Crime (Money Laundering) and Terrorist Financing Act, 2000. Data protection requirements also vary between the provinces and territories. Please note that after Bill C-11 for the Digital Charter Implementation Act, 2020 ('DCIA') failed to pass on 15 August 2021, a new bill to reform Canada's private sector privacy law was introduced, on 16 June 2022, in the House of Commons. Bill C-27 for the Digital Charter Implementation Act 2022 is divided into three parts, with each aimed at enacted a new Act, namely the Consumer Privacy Protection Act, the Personal Information and Data Protection Tribunal Act, and the Artificial Intelligence and Data Act. Bill C-27 is now under consideration in the Canadian Parliament."
+      }
+      
+    }
+  ]
+  
